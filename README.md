@@ -4,7 +4,7 @@ Give an idea about Github, and teach you get on github step by step
 ## What is Github
 everything I want to say is here [check this vedio](https://youtu.be/w3jLJU7DT5E)
 
-## How to register GitHub
+## Register GitHub
 0. if you have your personal github acconut, please see next setp
 
 1. open github.com

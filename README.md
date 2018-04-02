@@ -37,6 +37,22 @@ I will introduce some tools later
 1. let me @hidesoon know your accont ID
 2. then I will invite you to access https://github.com/ManufacturingInformatics
 3. accept the invitation 
+4. view the org page, look our repositories 
+
+## 04 View repositoy (main body of github)
+1. open one example
+https://github.com/ManufacturingInformatics/LabManagement
+
+## 05 View project management
+1. open https://github.com/orgs/ManufacturingInformatics/projects
+This is a Kanban system
+
+## 06 Clone repository on your own laptop
+Method one: clone directly from github webpage (not recommend)
+Method two: use smart tools, GitKraken (recommend)
+
+
+
 
 
 

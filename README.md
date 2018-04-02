@@ -48,8 +48,12 @@ https://github.com/ManufacturingInformatics/LabManagement
 This is a Kanban system
 
 ## 06 Clone repository on your own laptop
-Method one: clone directly from github webpage (not recommend)
+Method one: clone directly from github webpage (not recommend).
 Method two: use smart tools, GitKraken (recommend)
+https://www.gitkraken.com/github-student-developer-pack
+register and download
+
+## 07 Create your own branch and request for pull
 
 
 

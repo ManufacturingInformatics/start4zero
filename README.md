@@ -1,10 +1,10 @@
 # Start from zero
 Give an idea about Github, and teach you get on github step by step
 
-## What is Github
+## 00 What is Github
 everything I want to say is here [check this vedio](https://youtu.be/w3jLJU7DT5E)
 
-## Register GitHub
+## 01 Register GitHub
 0. if you have your personal github acconut, please see next setp
 
 1. open github.com
@@ -12,7 +12,7 @@ https://github.com
 2. Click sign in
 3. Use your **University email** to register
 
-## Apply eduction pack
+## 02 Apply eduction pack
 Why? Github is not totally free. Open souce repository is free, but do you really want your yet to publish work be open to everyone? No!
 So you need pravite repositoy. Pravite repositoy is paid service, but with eduction pack, it can be free to use for non-commercial.
 
@@ -32,6 +32,13 @@ or use this link https://education.github.com/discount_requests/new
 7. look what you can have with eduction pack with a snap 
 https://education.github.com/pack/offers 
 I will introduce some tools later
+
+## 03 Step on board （join our group）
+1. let me @hidesoon know your accont ID
+2. then I will invite you to access https://github.com/ManufacturingInformatics
+3. accept the invitation 
+
+
 
 
 

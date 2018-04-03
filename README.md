@@ -53,6 +53,12 @@ register and download
 
 ## 07 Create your own branch and request for pull
 
+## 10 Some thing worth to learn
+
+[Github guides](https://guides.github.com/)
+
+[Intro Giyhub](https://services.github.com/on-demand/intro-to-github/)
+
 
 
 

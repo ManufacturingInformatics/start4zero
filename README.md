@@ -57,7 +57,7 @@ register and download
 
 [Github guides](https://guides.github.com/)
 
-[Intro Giyhub](https://services.github.com/on-demand/intro-to-github/)
+[Intro Github](https://services.github.com/on-demand/intro-to-github/)
 
 
 

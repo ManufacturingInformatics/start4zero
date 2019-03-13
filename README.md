@@ -8,11 +8,11 @@ everything I want to say is here [check this video](https://youtu.be/w3jLJU7DT5E
 
 ## 01 Register GitHub
 
-0; if you have your personal GitHub account, please see next step
+*if you have your personal GitHub account, please see next step*
 
 1. open [github.com](https://github.com)
 
-2. Click sign in
+2. Click `sign in`
 
 3. Use your **University email** to register
 
@@ -39,7 +39,7 @@ I will introduce some tools later
 
 ## 03 Step on board （join our group）
 
-1. let me @hidesoon know your account ID
+1. let me (*[Boyang](https://github.com/hidesoon), as the maintainer atm*) know your account ID
 2. then I will invite you to access [our lab](https://github.com/ManufacturingInformatics)
 3. accept the invitation
 4. view the org page, look our repositories
@@ -55,10 +55,12 @@ This is a Kanban system
 
 ## 06 Clone repository on your own laptop
 
-Method one: clone directly from GitHub webpage (not recommend).
-Method two: use smart tools, GitKraken (recommend)
-<https://www.gitkraken.com/github-student-developer-pack>
-register and download
+- Method one: clone directly from GitHub webpage (not recommend).
+- Method two: use smart tools, GitKraken (recommend) 
+
+    <https://www.gitkraken.com/github-student-developer-pack>
+
+    register and download
 
 ## 07 Create your own branch and request for pull
 
